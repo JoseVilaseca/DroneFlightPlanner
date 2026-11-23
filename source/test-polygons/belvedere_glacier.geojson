@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belvedere Glacier - lower debris-covered tongue (Macugnaga, VB)",
+        "approx_size_km": "2.9 x 2.6",
+        "area_km2": 5.91
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.896,
+              45.944
+            ],
+            [
+              7.924,
+              45.943
+            ],
+            [
+              7.934,
+              45.955
+            ],
+            [
+              7.931,
+              45.966
+            ],
+            [
+              7.912,
+              45.965
+            ],
+            [
+              7.896,
+              45.956
+            ],
+            [
+              7.896,
+              45.944
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miage Glacier - terminal lobes, Val Veny (Courmayeur, AO)",
+        "approx_size_km": "1.3 x 1.3",
+        "area_km2": 1.41
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.846,
+              45.79
+            ],
+            [
+              6.861,
+              45.789
+            ],
+            [
+              6.862,
+              45.799
+            ],
+            [
+              6.852,
+              45.801
+            ],
+            [
+              6.845,
+              45.797
+            ],
+            [
+              6.846,
+              45.79
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

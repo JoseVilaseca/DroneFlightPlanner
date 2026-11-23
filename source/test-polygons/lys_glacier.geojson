@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lys Glacier - terminus and proglacial lake (Gressoney-La-Trinité, AO)",
+        "approx_size_km": "1.2 x 1.6",
+        "area_km2": 1.66
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.803,
+              45.876
+            ],
+            [
+              7.818,
+              45.876
+            ],
+            [
+              7.819,
+              45.889
+            ],
+            [
+              7.81,
+              45.89
+            ],
+            [
+              7.803,
+              45.884
+            ],
+            [
+              7.803,
+              45.876
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

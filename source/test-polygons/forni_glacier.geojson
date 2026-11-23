@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forni Glacier - tongue (Valfurva, SO, Stelvio NP)",
+        "approx_size_km": "2.0 x 2.0",
+        "area_km2": 3.31
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.579,
+              46.39
+            ],
+            [
+              10.603,
+              46.391
+            ],
+            [
+              10.604,
+              46.407
+            ],
+            [
+              10.59,
+              46.408
+            ],
+            [
+              10.578,
+              46.4
+            ],
+            [
+              10.579,
+              46.39
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
